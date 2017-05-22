@@ -4,13 +4,21 @@
 ### KEYS / FUNCTION / STAMINA_COST / OTHER_REQUIREMENTS
 
 Z / Shoot / 0 / None
+
 C / Push Enemies Away / 600 / None
+
 X / Place Bomb / 0 / 1 Bomb (dropped by enemies)
+
 A / Toggle Add-Ons / 0 / None
+
 B / Place Black Hole / 370 / None
+
 E / Construct Wall / 100 / 1 Wall (dropped by enemies)
+
 T / Place Turret / 420 / limited to 5 turrets at a time
+
 I / Invincibility / fast, constant stamina drain / None (you shouldn't need to use this ability. that's why it's so hard to reach on the keyboard)
+
 1,2,3,4,5 / Teleport to Turret 'n' and destroy that turret / 50 / Turret 'n' exists
 
 
