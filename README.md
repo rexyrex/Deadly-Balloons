@@ -1,0 +1,62 @@
+# Deadly-Balloons
+2D shooter game made from scratch. Pop them balloons!
+
+### KEYS / FUNCTION / STAMINA_COST / OTHER_REQUIREMENTS
+
+Z / Shoot / 0 / None
+C / Push Enemies Away / 600 / None
+X / Place Bomb / 0 / 1 Bomb (dropped by enemies)
+A / Toggle Add-Ons / 0 / None
+B / Place Black Hole / 370 / None
+E / Construct Wall / 100 / 1 Wall (dropped by enemies)
+T / Place Turret / 420 / limited to 5 turrets at a time
+I / Invincibility / fast, constant stamina drain / None (you shouldn't need to use this ability. that's why it's so hard to reach on the keyboard)
+1,2,3,4,5 / Teleport to Turret 'n' and destroy that turret / 50 / Turret 'n' exists
+
+
+### Types of Enemies
+
+1. Blue - Slow and Easy to kill
+2. Red - Fast and easy to kill
+3. Green - Slow, Hard to kill, Can place HOSTILE BLACKHOLES
+4. Black - Fast, Hard to kill, Can place HOSTILE BLACKHOLES and HOSTILE BOMBS
+5. Constantly Changing Colour - Fast, Hard To Kill, Follows Player, All the above abilities
+6. Boss - Can produce enemies, change speed, change direction randomly, can go into healing mode where the damage you deal heals him (when he turns green)
+
+
+### TIPS AND TRICKS
+
+- Turrets fire bullets accurately so they are good in the early game
+- Turrets can be useful mid/late waves when you want to teleport out of black hole
+- Placing a Blackhole just before a wave starts can help you clear the wave quickly.
+- Combining a blackhole and a bomb can be deadly.
+- Remember to construct walls. Enemies cannot pass by walls whereas you can. Walls are particularly useful vs the enemies that follow you
+- Collect as many powerups as you can.
+-When a blackhole finishes, enemies will scatter around the canvas. Remember to use your 'c' which pushes enemies back when they converge on you.
+- Toggle addon when boss turns green. The addon bullets will heal him.
+- You can place a maximum of 5 turrets at a time.
+- You can place infinite amount of walls but you need to collect them.
+
+
+### KNOWN ISSUES/BUGS
+
+- Audio issue when attack speed is too fast.
+- Audio issue where background music stops playing after a while.
+- No audio for many abilities, new wave, lose life etc.
+- I hate the sound effects
+- No main menu/ pause (I won't be adding these for this game)
+-when bomb goes off during new wave start timer, bomb exceeds its max radius
+- There should be no other bugs
+
+EDIT: no audio at all. *facepalm*
+
+
+### AWESOME PEOPLE
+
+People who actually finished this game (wave 17). Thanks for playing like a tenacious beast and for all the helpful feedback.
+1. Sam
+2. Marcus
+3. Geoffry
+4. Emily
+5. Mitch
+6. Ray (fastest win)
